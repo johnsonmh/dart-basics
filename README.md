@@ -28,6 +28,11 @@ if (numbers.isNotNull && numbers.all(isEven)) {
 }
 ```
 
+## Documentation
+
+See the [API docs](https://pub.dev/documentation/basics/latest/) for full documentation and sample 
+usages. 
+
 ## Notes
 This is not an official Google project.
 
